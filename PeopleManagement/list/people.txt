@@ -1,0 +1,9 @@
+Gaspare	Angellotto	44
+Antonio	Cannavacciuolo	32
+Barbara	Cuomo	42
+Vincenzo	Donnarumma	38
+Gennaro	Esposito	35
+Luisa	Ferrara	24
+Salvatore	Giordano	21
+Luigi	Manna	38
+Maria	Russo	28
